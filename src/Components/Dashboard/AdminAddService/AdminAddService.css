@@ -1,0 +1,18 @@
+input[type="file"]{
+    display: none;
+}
+.btnUpload{
+    color: #419066;
+    background-color: #b4dfc7d3;
+    border: 2px solid #5de49c60;
+
+}
+.adminService{
+    background-color: #d6dbee;
+    height: 1000px;
+}
+.addServiceSec{
+    background-color: rgb(224, 215, 215);
+    border-radius: 15px;
+}
+

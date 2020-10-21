@@ -1,0 +1,42 @@
+.nav-font{
+    background-color: none;
+    text-decoration: none;
+}
+.bgMenu{
+    background: linear-gradient(to right, #191c3adc, #2b3657);
+}
+.btnHeader {
+    background: linear-gradient(to right, #10132fdc, #1d2469);
+  }
+.btnHeader:hover {
+  background: linear-gradient(to right, #060820dc, #626585);
+}
+
+
+@media screen and (max-width: 760px){
+   .nav-font{
+       color: white;
+} 
+    .nav-font ul{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        
+    }
+    
+.nav-font li{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    background: linear-gradient(to right, #ffffff, #f3f3f3);
+    border-radius: 5px;
+    width: 100%;
+    box-shadow: 5px 5px 8px rgb(146, 139, 139);
+} 
+.btnHeader {
+    background: linear-gradient(to right, #060820dc, #626585);
+  }
+
+}

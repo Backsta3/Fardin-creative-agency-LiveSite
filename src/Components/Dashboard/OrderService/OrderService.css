@@ -1,0 +1,8 @@
+.orderServe{
+    width: 50%;
+}
+@media screen and (max-width: 733px){
+    .orderServe {
+        width: 100%;
+    }
+}

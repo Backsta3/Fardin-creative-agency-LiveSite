@@ -1,0 +1,38 @@
+.headerSec {
+    background: linear-gradient(171deg, #f3c246e3 78%, rgb(226, 246, 253) 78%);
+    height: 600px;
+}
+
+@media screen and (min-width: 1920px){
+    .headerSec {
+        background: linear-gradient(173deg, #f3c246e3 78%, rgb(226, 246, 253)  78%);
+        height: 900px;
+    }
+}
+
+@media screen and (max-width: 736px){
+    .headerSec {
+        background: linear-gradient(171deg, #f3c246e3 78%, rgb(226, 246, 253) 78%);
+        height: 900px;
+    }
+}
+.headMain{
+  font-weight: 700;
+  font-style: normal;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .headMainImg:hover{
+    width: 100% !important;
+  }
+    .headMainImg img:hover {
+      transform: scale(0.8, 0.8);   
+    }
+  }
+  
+.btnHire{
+    background-color: #10132fdc;
+}
+
+.btnHire:hover {
+      background: linear-gradient(to right, #111430, #343966);
+    }

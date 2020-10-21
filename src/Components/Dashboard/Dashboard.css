@@ -1,0 +1,7 @@
+.btnDashboard{
+    background-color: rgb(226, 246, 253);
+}
+
+.btnDashboard:hover{
+    background-color: #c0caee;
+}

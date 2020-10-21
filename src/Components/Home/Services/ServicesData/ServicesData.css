@@ -1,0 +1,13 @@
+.serviceImg{
+    height: 82px;
+    transition: transform .8s;
+}
+.serviceImg:hover {
+      transform: rotate(360deg);
+      width: 100px;
+      height: 100%;
+    }
+
+body{
+  background-color: rgb(226, 246, 253);
+}
