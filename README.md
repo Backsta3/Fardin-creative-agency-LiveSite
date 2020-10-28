@@ -1,6 +1,6 @@
 ### Hi there, I'm Fardin Bin Taher 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
+[![Website](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BackstarF)
 
 ## I'm a Student, Developer, and Musician!!
