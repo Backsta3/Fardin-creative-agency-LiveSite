@@ -10,9 +10,9 @@
 - ⚡ Fun fact: I love to draw, play guitar, flute and sing.
 
 ### Connect with me:
-
+<a href="https://www.facebook.com/darkstarfardin.darkstarfardin" target=”_blank”><i class="fab fa-facebook"></i></a>
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/facebook.svg" />][facebook]
-[<img align="left" alt="https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/BackstarF]
+[<img align="left" alt="https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> https://twitter.com/BackstarF][https://twitter.com/BackstarF]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
