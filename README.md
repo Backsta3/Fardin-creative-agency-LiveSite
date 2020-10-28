@@ -1,6 +1,6 @@
 ### Hi there, I'm Fardin Bin Taher 👋
 
-[![https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
+[![<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)](https://backsta3.github.io/My-Portfolio-Fardin-Bin-Taher-/index.html)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BackstarF)
 
 ## I'm a Student, Developer, and Musician!!
