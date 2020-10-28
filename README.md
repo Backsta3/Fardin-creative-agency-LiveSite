@@ -68,6 +68,9 @@ adding option for an Admin. Adding reviews option for user and fully responsive 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fardin-bin-taher-5510851aa/)
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/backstar_fardin/)
 
+<br />
+<br />
+<br />
 
 ## Available Scripts
 
