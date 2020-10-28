@@ -20,7 +20,7 @@ adding option for an Admin. Adding reviews option for user and fully responsive 
 <br />
 <br />
 
-## I'm a Student, Web Developer and Musician!!
+## I'm a Student, Programmer, Web Developer and Musician!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
